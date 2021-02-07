@@ -1,2 +1,2 @@
-# random-forest
-Classify Indonesia Obesity Status using Random Forest algorithm
+# Random Forest
+Classify Indonesian Obesity Status using Random Forest algorithm.
